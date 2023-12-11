@@ -11,7 +11,7 @@ constexpr double EPS = 0.0000001;
 using namespace std;
 int main()
 {   
-    double AAAAAAAAAAA = 1;
+    double BBBBBBBBB = 22;
 
 
     constexpr int N = 70; /* size of mesh */
