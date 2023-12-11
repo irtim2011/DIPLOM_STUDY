@@ -10,7 +10,10 @@ constexpr double EPS = 0.0000001;
 
 using namespace std;
 int main()
-{
+{   
+    double AAAAAAAAAAA = 1;
+
+
     constexpr int N = 70; /* size of mesh */
     constexpr double delta_x = 1.e-7;
     constexpr double x_dump_step = 0.001;
